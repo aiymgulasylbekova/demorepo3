@@ -10,5 +10,8 @@ a = 12
 res=kvadrat(a)
 print('a=', res)
 
+#team work
+print("Hello, Adi!")
+
 
     
