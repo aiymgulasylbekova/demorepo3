@@ -14,5 +14,6 @@ print('a=', res)
 print("Hello, Adi!")
 #Adi's answer
 print("Hi, Aiym! How are you?")
-
+#Aiym
+print("I'm fine")
     
