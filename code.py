@@ -12,6 +12,5 @@ print('a=', res)
 
 #team work
 print("Hello, Adi!")
-
-
-    
+#Aiym
+print("I'm fine")
