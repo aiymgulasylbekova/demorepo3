@@ -12,6 +12,7 @@ print('a=', res)
 
 #team work
 print("Hello, Adi!")
-
+#Adi's answer
+print("Hi, Aiym!")
 
     
