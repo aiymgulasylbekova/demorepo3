@@ -19,3 +19,4 @@ print("I'm fine.Thank you Adi")
 
 #Aiym
 print("Sharshap kettim")
+print("1")
