@@ -15,4 +15,7 @@ print("Hello, Adi!")
 #Adi's answer
 print("Hi, Aiym! How are you?")
 #Aiym
-print("I'm fine. Thank you")
+print("I'm fine.Thank you Adi")
+
+#Aiym
+print("Sharshap kettim")
